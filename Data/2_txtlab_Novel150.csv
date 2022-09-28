@@ -1,0 +1,151 @@
+,filename,id,language,date,author,title,gender,person,length
+0,"FR_1771_Dorat,ClaudeJoseph_LesSacrificesDeLAmour_Novel.txt",301,French,1771,"Dorat,ClaudeJoseph",LesSacrificesDeLAmour,male,first,68295
+1,"FR_1772_Arnaud,FrancoisThomasMariedeBaculardd'_EpreuvesDuSentiment_Novel.txt",302,French,1772,"Arnaud,FrancoisThomasMariedeBaculardd'",EpreuvesDuSentiment,male,third,199419
+2,"FR_1774_Mercier,LouisSebastian_LanDeuxMilleQuatreCentQuarante_Novel.txt",303,French,1774,"Mercier,LouisSebastian",LanDeuxMilleQuatreCentQuarante,male,first,63900
+3,"FR_1775_Gerard,PhilippeLouis_LeComteDeValmont_Novel.txt",304,French,1775,"Gerard,PhilippeLouis",LeComteDeValmont,male,first,165746
+4,"FR_1776_Riccoboni,MarieJeannedeHeurlesLaborasdeMezieres_LettresDeMylordRiversASirCharlesCardigan_Novel.txt",305,French,1776,"Riccoboni,MarieJeannedeHeurlesLaborasdeMezieres",LettresDeMylordRiversASirCharlesCardigan,female,first,44954
+5,"FR_1779_LoaiselTreogate,JM_LucileEtMilcourt_Novel.txt",306,French,1779,"LoaiselTreogate,JM",LucileEtMilcourt,male,first,29046
+6,"FR_1782_Genlis,StephanieFelicite,Comtessede_AdeleEtTheodoreOuLettresSurLEducation_Novel.txt",307,French,1782,"Genlis,StephanieFelicite,Comtessede",AdeleEtTheodoreOuLettresSurLEducation,female,first,239418
+7,"FR_1782_Laclos,ChoderlosDe_LesLiaisonsDangereuses_Novel.txt",308,French,1782,"Laclos,ChoderlosDe",LesLiaisonsDangereuses,male,first,135547
+8,"FR_1782_Lesuire,RobertMartin_L'AventurierFrancoisOuMemoiresDeGregoireMerveil_Novel.txt",309,French,1782,"Lesuire,RobertMartin",L'AventurierFrancoisOuMemoiresDeGregoireMerveil,male,first,50737
+9,"FR_1783_Berquin,M.Arnaud_LAmiDesEnfants_Novel.txt",310,French,1783,"Berquin,M.Arnaud",LAmiDesEnfants,male,third,35204
+10,"FR_1784_Diderot,Denis_JacquesLeFataliste_Novel.txt",311,French,1784,"Diderot,Denis",JacquesLeFataliste,male,third,85878
+11,"FR_1784_Diderot,Denis_LaReligieuse_Novel.txt",312,French,1784,"Diderot,Denis",LaReligieuse,male,first,59722
+12,"FR_1787_Beckford,William_VathekConteArabe_Novel.txt",313,French,1787,"Beckford,William",VathekConteArabe,male,third,32765
+13,"FR_1787_Charriere,IsabelleDe_CalisteOuLettresDeLausanne_Novel.txt",314,French,1787,"Charriere,IsabelleDe",CalisteOuLettresDeLausanne,female,first,49111
+14,"FR_1788_Florian,Jean-Pierre_Estelle_Novel.txt",315,French,1788,"Florian,Jean-Pierre",Estelle,male,first,32057
+15,"FR_1795_Charriere,IsabelleDe_TroisFemmes_Novel.txt",316,French,1795,"Charriere,IsabelleDe",TroisFemmes,female,third,37828
+16,"FR_1795_Genlis,StephanieFelicite,ComtesseDe_LesChevaliersDuCygneOuLaCourDeCharlemagne_Novel.txt",317,French,1795,"Genlis,StephanieFelicite,ComtesseDe",LesChevaliersDuCygneOuLaCourDeCharlemagne,female,first,177460
+17,FR_1796_RestifdelabretonneNicholas_Histoiredesara_Novel.txt,318,French,1796,RestifdelabretonneNicholas,Histoiredesara,male,first,60062
+18,"FR_1798_Fievee,Joseph_LaDotDeSuzanneOuHistoireDeMmeDeSenneterre_Novel.txt",319,French,1798,"Fievee,Joseph",LaDotDeSuzanneOuHistoireDeMmeDeSenneterre,male,first,30411
+19,"FR_1799_Cottin,Sophie_ClairedAlbe_Novel.txt",320,French,1799,"Cottin,Sophie",ClairedAlbe,female,first,36616
+20,"FR_1802_Stael,MadameDe_DelphineTome1_Novel.txt",321,French,1802,"Stael,MadameDe",DelphineTome1,female,first,146446
+21,"FR_1802_Stael,MadameDe_DelphineTome2_Novel.txt",322,French,1802,"Stael,MadameDe",DelphineTome2,female,first,113414
+22,"FR_1803_Krudener,Barbara_Valerie-Novel.txt",323,French,1803,"Krudener,Barbara",Valerie-Novel.txt,female,first,57944
+23,"FR_1804_Genlis,StephanieFelicite,ComtesseDe_LaDuchesseDeLaValliere_Novel.txt",324,French,1804,"Genlis,StephanieFelicite,ComtesseDe",LaDuchesseDeLaValliere,female,third,76688
+24,"FR_1804_Senancour,EtiennePivertDe_Obermann_Novel.txt",325,French,1840,"Senancour,EtiennePivertDe",Obermann,male,first,118961
+25,"FR_1805_Cottin,MadameSophie_Mathilde_Novel.txt",326,French,1805,"Cottin,MadameSophie",Mathilde,female,third,178441
+26,"FR_1807_Stael,MadameDe_CorinneOuLItalie_Novel.txt",327,French,1807,"Stael,MadameDe",CorinneOuLItalie,female,third,173032
+27,"FR_1817_Genlis,StéphanieFélicité_InesdeCastro.txt",328,French,1817,"Genlis,StéphanieFélicité",InesdeCastro.txt,female,third,32564
+28,"FR_1818_Nodier,Charles_JeanSbogar_Novel.txt",329,French,1818,"Nodier,Charles",JeanSbogar,male,first,41044
+29,"FR_1821_Latouche,HenriDe_DernieresLettresDeDeuxAmansDeBarcelone_Novel.txt",330,French,1821,"Latouche,HenriDe",DernieresLettresDeDeuxAmansDeBarcelone,male,first,34869
+30,"FR_1825_Duras,ClairedeDurfort_Edouard_Novel.txt",331,French,1825,"Duras,ClairedeDurfort",Edouard,female,first,31209
+31,"FR_1829_Janin,JulesGabriel_L'aneMortEtLaFemmeGuillotinee_Novel.txt",332,French,1829,"Janin,JulesGabriel",L'aneMortEtLaFemmeGuillotinee,male,first,35583
+32,"FR_1831_Hugo,Victor_Notre-DameDeParis_Novel.txt",333,French,1831,"Hugo,Victor",Notre-DameDeParis,male,third,168263
+33,"FR_1831_Nodier,Charles_LaFeeAuxMiettes_Novel.txt",334,French,1831,"Nodier,Charles",La Fee Aux Miettes,male,first,58986
+34,"FR_1831_Sue,Eugene_AtarGull_Novel.txt",335,French,1831,"Sue,Eugene",Atar-Gull,male,third,52912
+35,"FR_1832_Karr,Alphonse_SousLesTilleuls_Novel.txt",336,French,1832,"Karr,Alphonse",SousLesTilleuls,male,third,110544
+36,"FR_1833_Balzac,HonoreDe_EugénieGrandet_Novel.txt",337,French,1833,"Balzac,HonoreDe",EugénieGrandet,male,third,64100
+37,"FR_1833_Borel,Petrus_ChampavertContesImmoraux_Novel.txt",338,French,1833,"Borel,Petrus",ChampavertContesImmoraux,male,third,52695
+38,"FR_1833_Sand,George_Lelia_Novel.txt",339,French,1833,"Sand,George",Lelia--1839,female,third,65150
+39,FR_1834_Stendhal_LeRougeEtLeNoir_Novel.txt,340,French,1834,Stendhal,LeRougeEtLeNoir,male,third,175248
+40,"FR_1835_Vigny, AlfredDe_ServitudeEtGrandeurMiliitaires_Novel.txt",341,French,1835,"Vigny, AlfredDe",ServitudeEtGrandeurMiliitaires,male,first,57023
+41,"FR_1836_Gozlan,Leon_LeNotaireDeChantilly_Novel.txt",342,French,1836,"Gozlan,Leon",LeNotaireDeChantilly,male,third,108731
+42,"FR_1836_Musset,Alfred_Confessions_Novel.txt",343,French,1836,"Musset,Alfred",Confessions,male,first,88635
+43,"FR_1837_Soulie,Frederic_Les Memoires du Diable_Novel.txt",344,French,1837,"Soulie,Frederic",Les Memoires du Diable,male,first,103293
+44,"FR_1838_Dumas,Alexandre_LECAPITAINEPAUL_Novel.txt",345,French,1838,"Dumas,Alexandre",Le Capitaine Paul,male,first,60568
+45,"FR_1838_Tristan,Flora_MephisTome1_Novel.txt",346,French,1838,"Tristan,Flora",MephisTome1,female,third,54903
+46,"FR_1839_Dumas,Alexandre(père),_CapitanePamphileLe_Novel.txt",347,French,1839,"Dumas,Alexandre(père),",CapitanePamphileLe,male,first,65734
+47,"FR_1839_Topffer,Rodolphe_NouvellesGenevoises_Novel.txt",348,French,1839,"Topffer,Rodolphe",NouvellesGenevoises,male,first,114062
+48,"FR_1840_Merimee,Prosper_Colomba_Novel.txt",349,French,1840,"Merimee,Prosper",Colomba,male,third,44830
+49,FR_1842_Dumas_ChevalierdHarmental_Novel.txt,350,French,1842,Dumas,ChevalierdHarmental,male,third,160591
+50,"FR_1842_Reybaud,Louis_JeromePaturotALaRechercheD'unePositionSociale_Novel.txt",351,French,1842,"Reybaud,Louis",JeromePaturotALaRechercheD'unePositionSociale,male,first,131887
+51,FR_1842_Stendhal_Lamiel_Novel.txt,352,French,1842,Stendhal,Lamiel,male,first,55654
+52,"FR_1843_Balzac,HonoreDe_IllusionsPerdues_Novel.txt",353,French,1843,"Balzac,HonoreDe",IllusionsPerdues,male,third,228143
+53,"FR_1843_Dumas,Alexandre(pere)_Ascanio_Novel.txt",354,French,1843,"Dumas,Alexandre(pere)",Ascanio,male,third,163860
+54,"FR_1847_Gauthier,Theophile_Militona_Noel.txt",355,French,1847,"Gauthier,Theophile",Militona,male,third,37457
+55,"FR_1848_Sandeaux,Jules_MademoiselleDeLaSeigliere_Novel.txt",356,French,1848,"Sandeaux,Jules",MademoiselleDeLaSeigliere,male,first,68009
+56,"FR_1849_Dumas,Alexandre_MilleetunFantome_Novel.txt",357,French,1849,"Dumas,Alexandre",MilleetunFantome,male,first,254974
+57,"FR_1849_Lamartine,Alphonse_Raphael_Novel.txt",358,French,1849,"Lamartine,Alphonse",Raphael,male,first,58544
+58,"FR_1851_Dumas,Alexandre_OlympesDesCleves_Novel.txt",359,French,1851,"Dumas,Alexandre",OlympesDesCleves,male,first,238970
+59,"FR_1851_Lamartine,AlphonseDe_Tailleurdepierres_Novel.txt",360,French,1851,"Lamartine,AlphonseDe",Tailleurdepierres,male,first,56552
+60,"FR_1851_Murger,Henri_ScènesviedeBohème_Novel.txt",361,French,1851,"Murger,Henri",Scènes vie de Bohème,male,third,99647
+61,"FR_1851_Murger,Henri_ScenesViedeJeunesse_Novel.txt",362,French,1851,"Murger,Henri",Scenes Vie de Jeunesse,male,third,40346
+62,FR_1853_Champfleury_AventuresdeMelleMariette_Novel.txt,363,French,1853,Champfleury,AventuresdeMelleMariette,male,third,81114
+63,"FR_1853_DuCamp,Maxime_Memoiresd'uneSuicide_Novel.txt",364,French,1853,"DuCamp,Maxime",Memoiresd'uneSuicide,male,first,81272
+64,FR_1855_Champfleury_LesBourgeoisDeMolinchart_Novel.txt,365,French,1855,Champfleury,LesBourgeoisDeMolinchart,male,third,93333
+65,"FR_1856_Flaubert,Gustave_MadameBovary_Novel.txt",366,French,1856,"Flaubert,Gustave",MadameBovary,male,third,112452
+66,"FR_1857_About,Edmund_Leroidesmontagnes_Novel.txt",367,French,1857,"About,Edmund",Le roi des montagnes,male,first,63585
+67,"FR_1858_Dumas,Alexandre_LECAPITAINERICHARD_Novel.txt",368,French,1858,"Dumas,Alexandre",Le Capitaine Richard,male,third,73896
+68,"FR_1858_Gauthier,Theophile_Leromandelamomie_Novel.txt",369,French,1858,"Gauthier,Theophile",Leromandelamomie,male,third,55776
+69,"FR_1859_Dumas,Alexandre_AventuredAmour_Novel.txt",370,French,1859,"Dumas,Alexandre",AventuredAmour,male,first,31111
+70,"FR_1860_Duranty,Louis_Lemalheurd'HenrietteGerard_Novel.txt",371,French,1860,"Duranty,Louis",Lemalheurd'HenrietteGerard,male,third,110077
+71,"FR_1861_Goncourt,EdmondDe_SoeurPhilomene_Novel.txt",372,French,1861,"Goncourt,EdmondDe",SoeurPhilomene,male,third,51304
+72,"FR_1862_Hugo,Victor_LesMiserables_Novel.txt",373,French,1862,"Hugo,Victor",LesMiserables,male,third,510455
+73,"FR_1862_Reider,Paul_Mademoiselle Vallantin_Novel.txt",374,French,1862,"Reider,Paul",Mademoiselle Vallantin,male,third,48746
+74,"FR_1863_Gautier,Theophile_LeCapitaineFracasseTexteComplet1863_Novel.txt",375,French,1863,"Gautier,Theophile",LeCapitaineFracasseTexteComplet1863,male,third,185274
+75,"FR_1864_Erckmann,Emile_LamiFritz_Novel.txt",376,French,1864,"Erckmann,Emile",LamiFritz,male,third,61917
+76,"FR_1864_Erckmann,Emile_LeConscritde1813_Novel.txt",377,French,1864,"Erckmann,Emile",Le Conscrit de 1813,male,first,62528
+77,"FR_1864_Goncourt,Edmundde_Renee Mauperin_Novel.txt",378,French,1864,"Goncourt,Edmundde",Renee Mauperin,male,third,63357
+78,"FR_1864_Segur,Sophie,ComtesseDe_LesMalheursDeSophie_Novel.txt",379,French,1864,"Segur,Sophie,ComtesseDe",LesMalheursDeSophie,female,third,33368
+79,"FR_1865_Dumas,Alexandre_LEFILSDUFORÇAT_Novel.txt",380,French,1865,"Dumas,Alexandre",Le fils du forçat,male,third,64609
+80,"FR_1865_Merimee,Prosper_Cosaquesd'autrefois_Novel.txt",381,French,1865,"Merimee,Prosper",Cosaquesd'autrefois,male,third,67552
+81,"FR_1865_Verne,Jules_Delaterrealalune_Novel.txt",382,French,1865,"Verne,Jules",Delaterrealalune,male,third,52889
+82,"FR_1868_Daudet,Alphonse_LePetitChose_Novel.txt",383,French,1868,"Daudet,Alphonse",LePetitChose,male,first,81155
+83,"FR_1869_Flaubert,Gustave_L'ÉducationSentimentale_Novel.txt",384,French,1869,"Flaubert,Gustave",L'ÉducationSentimentale,male,third,153561
+84,"FR_1869_Goncourt,EdmondDe_MadameGervaisais_Novel.txt",385,French,1869,"Goncourt,EdmondDe",MadameGervaisais,male,third,57255
+85,"FR_1870_Verne,Jules_Vingtmillelieuessouslesmers_Novel.txt",386,French,1870,"Verne,Jules",Vingtmillelieuessouslesmers,male,first,139360
+86,"FR_1871_Zola,Emile_LafortunedesRougon_Novel.txt",387,French,1871,"Zola,Emile",LafortunedesRougon,male,third,117139
+87,"FR_1873_Verne,Jules_LeTourduMondeEn80Jours_Novel.txt",388,French,1873,"Verne,Jules",Le Tour du Monde En 80 Jours,male,third,66436
+88,"FR_1873_Zola,Emile_LeventredeParis_Novel.txt",389,French,1873,"Zola,Emile",LeventredeParis,male,third,110565
+89,"FR_1874_Gobineau,Arthur,comtede_LesPleiadesroman_Novel.txt",390,French,1874,"Gobineau,Arthur,comtede",LesPleiadesroman,male,first,112925
+90,"FR_1874_Verne,Jules_LileMysterieuse_Novel.txt",391,French,1874,"Verne,Jules",LileMysterieuse,male,third,193233
+91,"FR_1875_Theuriet,Andre_LeMariagedeGerard_Novel.txt",392,French,1875,"Theuriet,Andre",Le Mariage de Gerard,male,third,44291
+92,"FR_1877_Flaubert,Gustave_TroisContes_Novel.txt",393,French,1877,"Flaubert,Gustave",TroisContes,male,third,29693
+93,"FR_1878_Daudet,Alphonse_LeNabob_Novel.txt",394,French,1878,"Daudet,Alphonse",LeNabob,male,third,134323
+94,"FR_1879_Cladel,Leon_OMPDRAILLES_Novel.txt",395,French,1879,"Cladel,Leon",OMPDRAILLES,male,third,60070
+95,"FR_1879_Huysman,JK_LesSoeursVatard_Novel.txt",396,French,1879,"Huysman,JK",Les Soeurs Vatard,male,third,63567
+96,"FR_1879_Loti,Pierre_Aziyade_Novel.txt",397,French,1879,"Loti,Pierre",Aziyade,male,first,50014
+97,"FR_1879_Theuriet,Andre_LamaisondesdeuxBarbeaux_Novel.txt",398,French,1879,"Theuriet,Andre",LamaisondesdeuxBarbeaux,male,third,29249
+98,"FR_1879_Verne,Jules_500 Millions de la Begum_Novel.txt",399,French,1879,"Verne,Jules",500 Millions de la Begum,male,third,51235
+99,"FR_1881_France,Anatole_Lecrimedesylvestrebonnard_Novel.txt",400,French,1881,"France,Anatole",Lecrimedesylvestrebonnard,male,first,55372
+100,"FR_1882_Zola,Emile_Potbouille_Novel.txt",401,French,1882,"Zola,Emile",Potbouille,male,third,135137
+101,"FR_1883_Maupassant,Guy_UneVie_Novel.txt",402,French,1883,"Maupassant,Guy",UneVie,male,third,75717
+102,"FR_1883_Zola,Emile_AuBonheurdesDames_Novel.txt",403,French,1883,"Zola,Emile",AuBonheurdesDames,male,third,147295
+103,"FR_1884_Bourges,Elemir_LeCrepusculedesDieux_Novel.txt",404,French,1884,"Bourges,Elemir",LeCrepusculedesDieux,male,third,74387
+104,"FR_1884_Huysman,JK_ARebours_Novel.txt",405,French,1884,"Huysman,JK",ARebours,male,third,63893
+105,"FR_1884_Peladin,Josephin_LeViceSupreme_Novel.txt",406,French,1884,"Peladin,Josephin",LeViceSupreme,male,third,88646
+106,FR_1885_Rachilde_Nono_Novel.txt,407,French,1885,Rachilde,Nono,female,third,38374
+107,"FR_1886_Bloy,Leon_LeDésespéré_Novel.txt",408,French,1886,"Bloy,Leon",LeDésespéré,male,third,103939
+108,"FR_1886_Verne,Jules_RoburLeConquerant_Novel.txt",409,French,1886,"Verne,Jules",RoburLeConquerant,male,third,57317
+109,"FR_1887_Loti,Pierre_MadameChrysantheme_Novel.txt",410,French,1887,"Loti,Pierre",MadameChrysantheme,male,first,45631
+110,FR_1887_Rachilde_LaMarquiseDeSade_Novel.txt,411,French,1887,Rachilde,LaMarquiseDeSade,female,third,85380
+111,"FR_1888_Barres,Maurice_Sousloeilsdesbarbares_Novel.txt",412,French,1888,"Barres,Maurice",Sousloeilsdesbarbares,male,first,24963
+112,"FR_1888_Zola,Emile_LeReve_Novel.txt",413,French,1888,"Zola,Emile",LeReve,male,third,66345
+113,"FR_1889_Barres,Maurice_UnHommeLibre_Novel.txt",414,French,1889,"Barres,Maurice",UnHommeLibre,male,first,34985
+114,"FR_1889_Bourget,Paul_LeDisciple_Novel.txt",415,French,1889,"Bourget,Paul",LeDisciple,male,third,80367
+115,"FR_1889_Goncourt,Edmundde_GerminieLacerteux_Novel.txt",416,French,1889,"Goncourt,Edmundde",GerminieLacerteux,male,third,64494
+116,"FR_1891_Barrès,Maurice_LeJardindeBerenice_Novel.txt",417,French,1891,"Barres,Maurice",LeJardindeBerenice,male,first,31750
+117,"FR_1891_Zola,Emile_LaBeteHumaine_Novel.txt",418,French,1891,"Zola,Emile",LaBeteHumaine,male,third,125358
+118,"FR_1891_Zola,Emile_Largent_Novel.txt",419,French,1891,"Zola,Emile",Largent,male,third,142738
+119,"FR_1892_Zola,Emile_LaDebacle_Novel.txt",420,French,1892,"Zola,Emile",LaDebacle,male,third,186754
+120,"FR_1893_Rachilde,MargueriteEymery_Lanimale_Novel.txt",421,French,1893,"Rachilde,MargueriteEymery",Lanimale,female,third,66450
+121,"FR_1894_France,Anatole_LeLysRouge_Novel.txt",422,French,1894,"France,Anatole",LeLysRouge,male,third,78169
+122,"FR_1894_Renard,Jules_PoilDeCarrotte_Novel.txt",423,French,1894,"Renard,Jules",PoilDeCarrotte,male,third,32936
+123,"FR_1896_Estaunie,Eduard_Lempreinte_Novel.txt",424,French,1896,"Estaunie,Eduard",Lempreinte,male,third,68747
+124,"FR_1897_Bloy,Leon_LaFemmePauvre_Novel.txt",425,French,1897,"Bloy,Leon",LaFemmePauvre,male,third,89542
+125,"FR_1897_France,Anatole_LormeduMail_Novel.txt",426,French,1897,"France,Anatole",LormeduMail,male,first,45623
+126,"FR_1899_Vogue,Eugene_LesMortsQuiParlent_Novel.txt",427,French,1899,"Vogue,Eugene",LesMortsQuiParlent,male,third,97295
+127,FR_1900_Colette_Claudineal'ecole_Novel.txt,428,French,1900,Colette,Claudineal'ecole,female,first,72360
+128,"FR_1900_Mirbeau,Octave_LeJournalduneFemmedeChambre_Novel.txt",429,French,1900,"Mirbeau,Octave",LeJournalduneFemmedeChambre,male,first,107937
+129,FR_1900_Rachilde_LaJongieuse_Novel.txt,430,French,1900,Rachilde,LaJongieuse,female,third,48979
+130,"FR_1902_Adam,Paul_L'enfantd'Austerlitz_Novel.txt",431,French,1902,"Adam,Paul",L'enfantd'Austerlitz,male,first,153005
+131,"FR_1904_Frapie,Leon_LaMaternelle,Roman_Novel.txt",432,French,1904,"Frapie,Leon","LaMaternelle,Roman",male,first,66548
+132,"FR_1907_Bazin,Rene_LeBlequiLeve_Novel.txt",433,French,1907,"Bazin,Rene",LeBlequiLeve,male,third,82043
+133,"FR_1907_Farrere,Claude_LhommeQuiAssassina_Novel.txt",434,French,1907,"Farrere,Claude",LhommeQuiAssassina,male,first,52463
+134,"FR_1908_Leroux,Gaston_LeParfumdelaDameenNoir_Novel.txt",435,French,1908,"Leroux,Gaston",LeParfumdelaDameenNoir,male,first,94108
+135,"FR_1912_Rolland,Romain_LaNouvelleJournee_Novel.txt",436,French,1912,"Rolland,Romain",LaNouvelleJournee,male,first,55587
+136,"FR_1913_Proust,Marcel_DuCotedeChezSwann_Novel.txt",437,French,1913,"Proust,Marcel",DuCotedeChezSwann,male,first,166260
+137,"FR_1913_Romains,Jules_LesCopains_Novel.txt",438,French,1913,"Romains,Jules",LesCopains,male,third,32201
+138,"FR_1915_Benjamin,Rene_Gaspard_Novel.txt",439,French,1915,"Benjamin,Rene",Gaspard,male,first,55615
+139,"FR_1915_Bourget,Paul_LeSensDeLaMort_Novel.txt",440,French,1915,"Bourget,Paul",LeSensDeLaMort,male,first,45986
+140,"FR_1919_Benoit,Pierre_Latlantide_Novel.txt",441,French,1919,"Benoit,Pierre",Latlantide,male,first,61100
+141,"FR_1920_Duhamel,Georges_LaConfessiondeMinuit_Novel.txt",442,French,1920,"Duhamel,Georges",LaConfessiondeMinuit,male,first,34738
+142,"FR_1921_Chardonne,Jacques_Lepithaleme_Novel.txt",443,French,1921,"Chardonne,Jacques",Lepithaleme,male,third,85291
+143,"FR_1922_Proust,Marcel_LaFugitive_Novel.txt",444,French,1922,"Proust,Marcel",LaFugitive,male,first,104493
+144,"FR_1925_Gide,Andre_LesFauxmonnayeurs_Novel.txt",445,French,1925,"Gide,Andre",LesFauxmonnayeurs,male,third,109149
+145,"FR_1926_Giraudoux,Jean_Bella_Novel.txt",446,French,1926,"Giraudoux,Jean",Bella,male,first,47928
+146,"FR_1926_Ramuz,CharlesFerdinand_GrandePeurDanslaMontagne_Novel.txt",447,French,1926,"Ramuz,CharlesFerdinand",GrandePeurDanslaMontagne,male,first,49205
+147,"FR_1927_Bernanos,Georges_Limposture_Novel.txt",448,French,1927,"Bernanos,Georges",Limposture,male,third,79206
+148,"FR_1927_Duhamel,Georges_JournaldeSalavin_Novel.txt",449,French,1927,"Duhamel,Georges",JournaldeSalavin,male,first,41694
+149,"FR_1929_Dabit,Eugene_LhotelduNord_Novel.txt",450,French,1929,"Dabit,Eugene",LhotelduNord,male,third,35214
