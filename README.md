@@ -8,7 +8,7 @@ Yasmine Houri
 École nationale de la statistique et de l'administration économique, France
 
 
-This is an introduction to word embeddings, as preliminary work for my PhD on the following subject:  
+This is an introduction to word embeddings, as preliminary work for my ressearch on the following subject:  
 
 **Revealing Professional Gender Inequalities in the French Digital Space**. 
 
